@@ -1,0 +1,1 @@
+<img src="${pageContext.request.contextPath}/images/home_bg.png" class="img" width="100%" height="auto"> 
